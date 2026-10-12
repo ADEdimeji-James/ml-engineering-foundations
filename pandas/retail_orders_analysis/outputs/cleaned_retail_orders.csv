@@ -1,0 +1,81 @@
+order_id,order_date,customer_id,region,product,category,quantity,unit_price,discount_pct,payment_method,order_status,gross_revenue,discount_amount,net_revenue,order_month
+ORD-1001,2026-07-04,CUST-108,Abuja,Mechanical Keyboard,Electronics,3,75.0,0.0,Cash,Completed,225.0,0.0,225.0,2026-07
+ORD-1002,2026-07-12,CUST-102,Lagos,Standing Desk,Furniture,5,320.0,5.0,Card,Completed,1600.0,80.0,1520.0,2026-07
+ORD-1003,2026-09-03,CUST-118,Abuja,Laptop Stand,Accessories,5,35.0,0.0,Cash,Cancelled,175.0,0.0,175.0,2026-09
+ORD-1004,2026-08-23,CUST-119,Ibadan,Standing Desk,Furniture,2,320.0,5.0,Card,Completed,640.0,32.0,608.0,2026-08
+ORD-1005,2026-08-13,CUST-107,Ibadan,Notebook Set,Stationery,3,12.0,0.0,Card,Completed,36.0,0.0,36.0,2026-08
+ORD-1006,2026-07-13,CUST-120,Lagos,Notebook Set,Stationery,3,12.0,0.0,Card,Cancelled,36.0,0.0,36.0,2026-07
+ORD-1007,2026-09-07,CUST-103,Ibadan,Office Chair,Furniture,1,180.0,5.0,Cash,Pending,180.0,9.0,171.0,2026-09
+ORD-1008,2026-09-12,CUST-103,Lagos,Desk Lamp,Home Office,2,30.0,15.0,Cash,Completed,60.0,9.0,51.0,2026-09
+ORD-1009,2026-07-11,CUST-113,Ibadan,Webcam,Electronics,2,60.0,0.0,Transfer,Cancelled,120.0,0.0,120.0,2026-07
+ORD-1010,2026-07-21,CUST-107,Ibadan,Desk Lamp,Home Office,3,30.0,0.0,Cash,Cancelled,90.0,0.0,90.0,2026-07
+ORD-1011,2026-09-16,CUST-124,Abuja,Mechanical Keyboard,Electronics,2,75.0,10.0,Card,Completed,150.0,15.0,135.0,2026-09
+ORD-1012,2026-08-04,CUST-122,Ibadan,Notebook Set,Stationery,5,12.0,0.0,Card,Completed,60.0,0.0,60.0,2026-08
+ORD-1013,2026-08-10,CUST-103,Abuja,Wireless Mouse,Electronics,4,25.0,0.0,Cash,Cancelled,100.0,0.0,100.0,2026-08
+ORD-1014,2026-07-28,CUST-121,Port Harcourt,Desk Lamp,Home Office,4,30.0,5.0,Card,Completed,120.0,6.0,114.0,2026-07
+ORD-1015,2026-08-01,CUST-109,Port Harcourt,USB-C Hub,Electronics,5,45.0,10.0,Cash,Completed,225.0,22.5,202.5,2026-08
+ORD-1016,2026-07-29,CUST-116,Lagos,Desk Lamp,Home Office,2,30.0,10.0,Card,Completed,60.0,6.0,54.0,2026-07
+ORD-1017,2026-09-19,CUST-114,Lagos,USB-C Hub,Electronics,2,45.0,15.0,Transfer,Completed,90.0,13.5,76.5,2026-09
+ORD-1018,2026-08-29,CUST-118,Abuja,Headphones,Electronics,5,90.0,0.0,Cash,Cancelled,450.0,0.0,450.0,2026-08
+ORD-1019,2026-09-26,CUST-125,Ibadan,Mechanical Keyboard,Electronics,5,75.0,0.0,Card,Completed,375.0,0.0,375.0,2026-09
+ORD-1020,2026-07-21,CUST-124,Ibadan,Notebook Set,Stationery,4,12.0,0.0,Cash,Completed,48.0,0.0,48.0,2026-07
+ORD-1021,2026-07-14,CUST-117,Abuja,Standing Desk,Furniture,3,320.0,15.0,Card,Completed,960.0,144.0,816.0,2026-07
+ORD-1022,2026-09-08,CUST-120,Ibadan,USB-C Hub,Electronics,5,45.0,0.0,Transfer,Completed,225.0,0.0,225.0,2026-09
+ORD-1023,2026-08-16,CUST-102,Abuja,Mechanical Keyboard,Electronics,3,75.0,0.0,Cash,Completed,225.0,0.0,225.0,2026-08
+ORD-1024,2026-09-01,CUST-125,Abuja,Mechanical Keyboard,Electronics,1,75.0,10.0,Card,Cancelled,75.0,7.5,67.5,2026-09
+ORD-1025,2026-09-09,,Port Harcourt,Office Chair,Furniture,2,180.0,0.0,Card,Pending,360.0,0.0,360.0,2026-09
+ORD-1026,2026-09-30,CUST-122,Ibadan,Laptop Stand,Accessories,3,35.0,5.0,Transfer,Pending,105.0,5.25,99.75,2026-09
+ORD-1027,2026-07-16,CUST-103,Ibadan,Office Chair,Furniture,2,180.0,0.0,Card,Pending,360.0,0.0,360.0,2026-07
+ORD-1028,2026-07-30,CUST-101,Lagos,Standing Desk,Furniture,5,320.0,0.0,Cash,Cancelled,1600.0,0.0,1600.0,2026-07
+ORD-1029,2026-07-30,CUST-111,Lagos,Wireless Mouse,Electronics,1,25.0,0.0,Cash,Completed,25.0,0.0,25.0,2026-07
+ORD-1030,2026-09-24,CUST-118,Abuja,Webcam,Electronics,4,60.0,0.0,Card,Pending,240.0,0.0,240.0,2026-09
+ORD-1031,2026-08-30,CUST-114,Abuja,Headphones,Electronics,2,90.0,5.0,Card,Completed,180.0,9.0,171.0,2026-08
+ORD-1032,2026-08-15,CUST-115,Lagos,Notebook Set,Stationery,4,12.0,5.0,Cash,Cancelled,48.0,2.4,45.6,2026-08
+ORD-1033,2026-07-08,CUST-111,Lagos,Mechanical Keyboard,Electronics,4,75.0,15.0,Card,Completed,300.0,45.0,255.0,2026-07
+ORD-1034,2026-09-07,CUST-114,Abuja,Laptop Stand,Accessories,4,35.0,0.0,Transfer,Completed,140.0,0.0,140.0,2026-09
+ORD-1035,2026-07-10,CUST-104,Lagos,Laptop Stand,Accessories,4,35.0,10.0,Cash,Pending,140.0,14.0,126.0,2026-07
+ORD-1036,2026-07-12,CUST-114,Port Harcourt,Wireless Mouse,Electronics,2,25.0,0.0,Transfer,Completed,50.0,0.0,50.0,2026-07
+ORD-1037,2026-07-08,CUST-101,Port Harcourt,Notebook Set,Stationery,2,12.0,5.0,Transfer,Completed,24.0,1.2,22.8,2026-07
+ORD-1038,2026-08-24,CUST-123,Port Harcourt,Webcam,Electronics,5,60.0,15.0,Card,Completed,300.0,45.0,255.0,2026-08
+ORD-1039,2026-07-28,CUST-124,Lagos,Webcam,Electronics,1,60.0,10.0,Cash,Completed,60.0,6.0,54.0,2026-07
+ORD-1040,2026-07-07,CUST-117,Abuja,Wireless Mouse,Electronics,5,25.0,5.0,Card,Pending,125.0,6.25,118.75,2026-07
+ORD-1041,2026-07-24,CUST-103,Abuja,Mechanical Keyboard,Electronics,1,75.0,10.0,Transfer,Completed,75.0,7.5,67.5,2026-07
+ORD-1042,2026-08-01,CUST-102,Lagos,Headphones,Electronics,5,90.0,10.0,Transfer,Cancelled,450.0,45.0,405.0,2026-08
+ORD-1043,2026-09-11,CUST-109,Abuja,Headphones,Electronics,5,90.0,0.0,Cash,Cancelled,450.0,0.0,450.0,2026-09
+ORD-1044,2026-07-31,CUST-105,Ibadan,Desk Lamp,Home Office,3,30.0,5.0,Transfer,Completed,90.0,4.5,85.5,2026-07
+ORD-1045,2026-07-02,CUST-119,Lagos,Mechanical Keyboard,Electronics,4,75.0,10.0,Card,Pending,300.0,30.0,270.0,2026-07
+ORD-1046,2026-09-03,CUST-112,Lagos,Laptop Stand,Accessories,3,35.0,0.0,Card,Completed,105.0,0.0,105.0,2026-09
+ORD-1047,2026-07-21,CUST-123,Ibadan,Webcam,Electronics,4,60.0,10.0,Cash,Cancelled,240.0,24.0,216.0,2026-07
+ORD-1048,2026-07-02,CUST-122,Lagos,Standing Desk,Furniture,5,320.0,0.0,Card,Completed,1600.0,0.0,1600.0,2026-07
+ORD-1049,2026-07-14,CUST-109,Ibadan,Mechanical Keyboard,Electronics,5,75.0,0.0,Cash,Completed,375.0,0.0,375.0,2026-07
+ORD-1050,2026-07-27,CUST-116,Ibadan,Desk Lamp,Home Office,3,30.0,10.0,Card,Completed,90.0,9.0,81.0,2026-07
+ORD-1051,2026-08-05,CUST-111,Abuja,Notebook Set,Stationery,1,12.0,0.0,Cash,Completed,12.0,0.0,12.0,2026-08
+ORD-1052,2026-08-26,CUST-114,Lagos,USB-C Hub,Electronics,5,45.0,15.0,Card,Completed,225.0,33.75,191.25,2026-08
+ORD-1053,2026-09-08,CUST-119,Abuja,USB-C Hub,Electronics,1,45.0,0.0,Transfer,Completed,45.0,0.0,45.0,2026-09
+ORD-1054,2026-08-09,CUST-112,Abuja,Wireless Mouse,Electronics,3,25.0,0.0,Cash,Completed,75.0,0.0,75.0,2026-08
+ORD-1055,2026-08-15,CUST-120,Abuja,Mechanical Keyboard,Electronics,5,75.0,0.0,Card,Completed,375.0,0.0,375.0,2026-08
+ORD-1056,2026-08-22,CUST-124,Ibadan,USB-C Hub,Electronics,1,45.0,0.0,Transfer,Cancelled,45.0,0.0,45.0,2026-08
+ORD-1057,2026-08-04,CUST-104,Port Harcourt,Laptop Stand,Accessories,2,35.0,15.0,Card,Completed,70.0,10.5,59.5,2026-08
+ORD-1058,2026-07-26,CUST-110,Abuja,Laptop Stand,Accessories,4,35.0,0.0,Card,Completed,140.0,0.0,140.0,2026-07
+ORD-1059,2026-08-21,CUST-103,Ibadan,Laptop Stand,Accessories,3,35.0,0.0,Transfer,Cancelled,105.0,0.0,105.0,2026-08
+ORD-1060,2026-08-21,CUST-101,Lagos,Standing Desk,Furniture,5,320.0,0.0,Transfer,Completed,1600.0,0.0,1600.0,2026-08
+ORD-1061,2026-08-03,CUST-120,Port Harcourt,Headphones,Electronics,1,90.0,0.0,Transfer,Cancelled,90.0,0.0,90.0,2026-08
+ORD-1062,2026-08-25,CUST-104,Port Harcourt,Desk Lamp,Home Office,5,30.0,10.0,Cash,Completed,150.0,15.0,135.0,2026-08
+ORD-1063,2026-07-06,CUST-117,Abuja,Webcam,Electronics,4,60.0,0.0,Transfer,Completed,240.0,0.0,240.0,2026-07
+ORD-1064,2026-09-24,CUST-111,Lagos,Mechanical Keyboard,Electronics,3,75.0,10.0,Cash,Completed,225.0,22.5,202.5,2026-09
+ORD-1065,2026-08-09,CUST-113,Ibadan,Standing Desk,Furniture,4,320.0,0.0,Cash,Completed,1280.0,0.0,1280.0,2026-08
+ORD-1066,2026-08-23,CUST-124,Abuja,Laptop Stand,Accessories,4,35.0,15.0,Cash,Pending,140.0,21.0,119.0,2026-08
+ORD-1067,2026-08-21,CUST-110,Ibadan,Webcam,Electronics,5,60.0,0.0,Card,Completed,300.0,0.0,300.0,2026-08
+ORD-1068,2026-09-16,CUST-115,Port Harcourt,Headphones,Electronics,3,90.0,5.0,Cash,Completed,270.0,13.5,256.5,2026-09
+ORD-1069,2026-08-30,CUST-103,Ibadan,Standing Desk,Furniture,2,320.0,15.0,Cash,Cancelled,640.0,96.0,544.0,2026-08
+ORD-1070,2026-08-12,CUST-122,Ibadan,Headphones,Electronics,1,90.0,0.0,Card,Completed,90.0,0.0,90.0,2026-08
+ORD-1071,2026-07-04,CUST-116,Lagos,USB-C Hub,Electronics,1,45.0,0.0,Transfer,Completed,45.0,0.0,45.0,2026-07
+ORD-1072,2026-07-25,CUST-113,Abuja,Headphones,Electronics,4,90.0,5.0,Card,Cancelled,360.0,18.0,342.0,2026-07
+ORD-1073,2026-07-14,CUST-106,Port Harcourt,Wireless Mouse,Electronics,4,25.0,0.0,Card,Pending,100.0,0.0,100.0,2026-07
+ORD-1074,2026-07-16,CUST-115,Ibadan,Laptop Stand,Accessories,4,35.0,0.0,Transfer,Pending,140.0,0.0,140.0,2026-07
+ORD-1075,2026-08-24,CUST-106,Port Harcourt,Standing Desk,Furniture,5,320.0,5.0,Transfer,Completed,1600.0,80.0,1520.0,2026-08
+ORD-1076,2026-09-20,CUST-116,Abuja,Laptop Stand,Accessories,3,35.0,10.0,Transfer,Completed,105.0,10.5,94.5,2026-09
+ORD-1077,2026-09-30,CUST-109,Ibadan,Mechanical Keyboard,Electronics,3,75.0,0.0,Transfer,Pending,225.0,0.0,225.0,2026-09
+ORD-1078,2026-07-18,CUST-113,Abuja,Mechanical Keyboard,Electronics,2,75.0,0.0,Cash,Completed,150.0,0.0,150.0,2026-07
+ORD-1079,2026-08-23,CUST-118,Port Harcourt,Mechanical Keyboard,Electronics,4,75.0,0.0,Transfer,Completed,300.0,0.0,300.0,2026-08
+ORD-1080,2026-08-23,CUST-123,Lagos,Laptop Stand,Accessories,4,35.0,10.0,Cash,Completed,140.0,14.0,126.0,2026-08
