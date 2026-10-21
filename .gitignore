@@ -4,3 +4,6 @@ __pycache__/
 .env
 # local SQLite database files 
 *.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
